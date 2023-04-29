@@ -33,8 +33,8 @@ class Config(object):
     FILTER_CHANNEL_ID = int(os.environ.get("FILTER_CHANNEL_ID", ""))
 
     # file forward channel ID
-    FILES_FROM_CHANNEL = 
-    FILES_TO_CHANNEL = 
+    FILES_FROM_CHANNEL = -1001739094949
+    FILES_TO_CHANNEL = -1001506021749
     
         
 def LOGGER(name: str) -> logging.Logger:
