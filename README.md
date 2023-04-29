@@ -1,17 +1,3 @@
-<div id="top"></div>
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![GPL3 License][license-shield]][license-url]
-
-
-<br />
-<div align="center">
-  <a href="https://github.com/OxMohsen/uniquify-bot">
-    <img src="https://img.apksum.com/4c/com.duplicate.files.remover.duplicatefinderfiles/1.0/icon.png" alt="Logo" width="80" height="80">
-  </a>
 
 <h3 align="center">uniquify bot</h3>
 
