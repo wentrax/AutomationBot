@@ -1,11 +1,6 @@
 from os.path import exists
-
 from pyrogram import Client, enums
-
-if exists("./config.py"):
-    from config import LOGGER, Config
-else:
-    from sample_config import LOGGER, Config
+from config import LOGGER, Config
 
 from user import User
 
