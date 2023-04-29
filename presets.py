@@ -27,6 +27,15 @@ Duplicate Media counter and current message-id will be displayed in the UI with 
 <b><u>Available Command</b></u>
 * /start_forward - <b>start forward</b>  
 
+ 𝐀𝐮𝐭𝐨 𝐅𝐢𝐥𝐭𝐞𝐫 𝐇𝐞𝐥𝐩
+<i>
+* Add user account to your channel !
+* Add bot to group with admin rights.
+* Once deployed and bot is started, send a message to channel (must do step)
+* Bot will work now :)
+No need add each filter again!
+Bot will automatically search for your file and give links to that!
+</i>
     """
     WAIT_MSG = "<b>Please wait...</b>"
     NOT_AUTH_TXT = "<b>You are not Authorized !</b>"
