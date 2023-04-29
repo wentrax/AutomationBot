@@ -16,6 +16,17 @@ Duplicate Media counter and current message-id will be displayed in the UI with 
 /chat -100xxxxxxxxxx - <i>Set the target chat</i>
 /delay 10 - <i>10 second delay</i>
 /purge - <i>Delete duplicate media</i>
+
+
+ 𝐅𝐢𝐥𝐞𝐬 𝐟𝐨𝐫𝐰𝐚𝐫𝐝 𝐡𝐞𝐥𝐩
+<b>Follow These Steps!!</b>
+<b>• Currectly fill your Heroku Config vars</b> <code>FROM_CHANNEL</code> and <code>TO_CHANNEL</code> <b>and other Vars</b>
+<b>• Then give admin permission in your personal telegram channel</b>
+<b>• Then send any message In your personal telegram channel</b>
+<b>• Then use /forward command in your bot</b>
+<b><u>Available Command</b></u>
+* /forward - <b>start forward</b>  
+
     """
     WAIT_MSG = "<b>Please wait...</b>"
     NOT_AUTH_TXT = "<b>You are not Authorized !</b>"
