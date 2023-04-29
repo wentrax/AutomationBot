@@ -7,7 +7,7 @@ logger = logging.getLogger(__name__)
 logger.setLevel(logging.ERROR)
 
 FROM = Config.FILES_FROM_CHANNEL
-TO = Config.FILES_TO_CHANNEL"
+TO = Config.FILES_TO_CHANNEL
 
 document = enums.MessagesFilter.VIDEO
 
