@@ -7,11 +7,8 @@ from pyrogram import enums, filters
 from pyrogram.errors import FloodWait
 from pyrogram.types import Message
 from support.buttons import reply_markup_cancel, reply_markup_close, reply_markup_start
+from config import Config
 
-if exists("config.py"):
-    from config import Config
-else:
-    from sample_config import Config
 
 purge_status = {}
 chat = {}
