@@ -1,7 +1,6 @@
 import re, pyrogram, logging
 from pyrogram import filters, enums, Client
-from bot.importss import Config, Translation, Robot
-from bot.importss import Robot as Bot
+from config import Config
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message, CallbackQuery
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.ERROR)   
