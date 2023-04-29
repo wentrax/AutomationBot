@@ -4,7 +4,7 @@ cancel_button = [[InlineKeyboardButton("Cancel", callback_data="cancel_btn")]]
 
 start_button = [
     [
-        InlineKeyboardButton("Developer", url="t.me/OxMohsen"),
+        InlineKeyboardButton("Developer", url="t.me/lx0980AI"),
         InlineKeyboardButton("Help", callback_data="help_btn"),
     ]
 ]
@@ -13,7 +13,7 @@ back_button = [[InlineKeyboardButton("⬅️ Back", callback_data="back_btn")]]
 
 close_button = [
     [
-        InlineKeyboardButton("Developer", url="t.me/OxMohsen"),
+        InlineKeyboardButton("Developer", url="t.me/lx0980AI"),
         InlineKeyboardButton("Close", callback_data="close_btn"),
     ]
 ]
