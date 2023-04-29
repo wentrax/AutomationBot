@@ -19,8 +19,10 @@ Duplicate Media counter and current message-id will be displayed in the UI with 
 
 
  𝐅𝐢𝐥𝐞𝐬 𝐟𝐨𝐫𝐰𝐚𝐫𝐝 𝐡𝐞𝐥𝐩
+This Bot forward all files from One Public channel to Your Personal channel
+
 <b>Follow These Steps!!</b>
-<b>• Currectly fill your Heroku Config vars</b> <code>FROM_CHANNEL</code> and <code>TO_CHANNEL</code> <b>and other Vars</b>
+<b>• Currectly fill your Config vars</b> <code>FROM_CHANNEL</code> and <code>TO_CHANNEL</code> <b>and other Vars</b>
 <b>• Then give admin permission in your personal telegram channel</b>
 <b>• Then send any message In your personal telegram channel</b>
 <b>• Then use /start_forward command in your bot</b>
