@@ -9,7 +9,6 @@ logger.setLevel(logging.ERROR)
 FROM = Config.FILES_FROM_CHANNEL
 TO = Config.FILES_TO_CHANNEL"
 
-rplc1d = "DXClassic | @Only1DX"
 document = enums.MessagesFilter.VIDEO
 
 @Client.on_message(filters.private & filters.command(["start_forward"]))
