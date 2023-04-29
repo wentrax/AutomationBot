@@ -23,9 +23,9 @@ Duplicate Media counter and current message-id will be displayed in the UI with 
 <b>• Currectly fill your Heroku Config vars</b> <code>FROM_CHANNEL</code> and <code>TO_CHANNEL</code> <b>and other Vars</b>
 <b>• Then give admin permission in your personal telegram channel</b>
 <b>• Then send any message In your personal telegram channel</b>
-<b>• Then use /forward command in your bot</b>
+<b>• Then use /start_forward command in your bot</b>
 <b><u>Available Command</b></u>
-* /forward - <b>start forward</b>  
+* /start_forward - <b>start forward</b>  
 
     """
     WAIT_MSG = "<b>Please wait...</b>"
